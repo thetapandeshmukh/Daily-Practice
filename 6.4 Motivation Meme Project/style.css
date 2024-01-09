@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: aliceblue;
+    text-transform: uppercase;
+    font-size: 3rem;
+    text-align: center;
+    border:solid white;
+    border-width: 5px;
+}
+
+p{
+    color: aqua;
+    font-style: italic;
+    text-align: center;
+    
+}
+
+.poster{
+    width: 47.5%;
+    margin-left: 18%;
+    border: solid white;
+    border-width: 5px 5px;
+    margin-top: 100px;
+}
+
+.motivational-image{
+    width: 100%;
+}
